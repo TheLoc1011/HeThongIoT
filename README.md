@@ -1,2 +1,0 @@
-# HeThongIoT
-Hệ thống IoT
