@@ -81,4 +81,5 @@ Dữ liệu di chuyển theo một luồng rõ ràng để đảm bảo tốc đ
     * Upload code `.ino` riêng biệt cho Arduino Uno (Motor, Servo control) và ESP32-CAM (IoT, Image Processing).
 2.  **Thiết lập Web:** Đảm bảo file Dashboard (`index.html`, `style.css`) được nạp vào bộ nhớ **SPIFFS/LITTLEFS** của ESP32-CAM.
 3.  **Vận hành:** Cấp nguồn cho hệ thống và truy cập địa chỉ IP của ESP32-CAM trên trình duyệt để mở Dashboard giám sát.
-[Poster](https://docs.google.com/presentation/d/1fFgqZXrts2E6_CQ6zMs72HG6ms-qaGqC/edit?usp=drive_link&ouid=115995459142631122371&rtpof=true&sd=true)
+
+<div>[Poster](https://docs.google.com/presentation/d/1fFgqZXrts2E6_CQ6zMs72HG6ms-qaGqC/edit?usp=drive_link&ouid=115995459142631122371&rtpof=true&sd=true)</div>
